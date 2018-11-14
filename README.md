@@ -1,6 +1,6 @@
 # vue-cli-3-all
 
-## Envirenment
+## Environment
 ```
 Node >= 8
 Yarn (latest best)
