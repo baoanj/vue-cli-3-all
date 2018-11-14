@@ -1,28 +1,29 @@
 # vue-cli-3-all
 
-## Project setup
+## Envirenment
 ```
-yarn install
+Node >= 8
+Yarn (latest best)
+```
+
+## Project setup
+```bash
+yarn # npm install
 ```
 
 ### Compiles and hot-reloads for development
-```
-yarn run serve
+```bash
+yarn serve # npm run serve
 ```
 
 ### Compiles and minifies for production
-```
-yarn run build
-```
-
-### Run your tests
-```
-yarn run test
+```bash
+yarn build # npm run build
 ```
 
 ### Lints and fixes files
-```
-yarn run lint
+```bash
+yarn lint # npm run lint
 ```
 
 ### Customize configuration
